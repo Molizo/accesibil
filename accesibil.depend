@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505470991 source:c:\users\mihneavisoiu\desktop\accesibil\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
